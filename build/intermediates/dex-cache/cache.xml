@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/djordje/.android/build-cache/cb086b7efedc7eab9833c405574c013cf3b2a73a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
+        <dex dex="/Users/djordje/AndroidStudioProjects/NewCustomKeyboard/app/build/intermediates/pre-dexed/debug/classes_4b12117c006652a6273b65e99f437ec11a2f690e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djordje/.android/build-cache/f6c717e7fb376d5ed55094bbb541e7a97e2db0e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
+        <dex dex="/Users/djordje/AndroidStudioProjects/NewCustomKeyboard/app/build/intermediates/pre-dexed/debug/classes_a6a74bac6f29e959b399b634fd11becd9e263e75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djordje/.android/build-cache/78dca575ded958ad29d59fc86513e3182d78b602/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="204f607419af8247cc1b2a61f50663c65f841c12">
+        <dex dex="/Users/djordje/AndroidStudioProjects/NewCustomKeyboard/app/build/intermediates/pre-dexed/debug/classes_888b324217340784735245a68b13b38c622703a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djordje/.android/build-cache/d3d8a625addce0ec56c610705514332887402fe6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="005d20a198159b87f65812fc5c51b2d84c5eba0a">
+        <dex dex="/Users/djordje/AndroidStudioProjects/NewCustomKeyboard/app/build/intermediates/pre-dexed/debug/classes_f3f1139e160fa96d80d126bdb8b6d8d14d7ba676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djordje/.android/build-cache/d37bea79cfadd9a9b6984e7934bdfb1cf062724d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="461929440e66685425a298693507f6fb27b0a872">
+        <dex dex="/Users/djordje/AndroidStudioProjects/NewCustomKeyboard/app/build/intermediates/pre-dexed/debug/classes_45d1b3c514b0581de931e33de54f40b69c8b19a7.jar" />
+    </item>
+
+</items>

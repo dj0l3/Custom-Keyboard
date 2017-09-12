@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="11.25%p"
+    android:keyHeight="6.25%p"
+    android:verticalGap="0.3%p"
+    android:horizontalGap="0.3%p">
+
+    <Row
+        android:verticalGap="1%p">
+        <Key android:codes="55001" android:keyLabel="1 " android:keyEdgeFlags="left"  android:horizontalGap="1%p" android:keyWidth="17.1%p"/>
+        <Key android:codes="55002" android:keyLabel="5 " android:keyWidth="17.1%p"    android:horizontalGap="3%p"/>
+        <Key android:codes="55003" android:keyLabel="10" android:keyWidth="17.1%p"    android:horizontalGap="3%p"/>
+        <Key android:codes="55004" android:keyLabel="25" android:keyWidth="17.1%p"    android:horizontalGap="3%p"/>
+        <Key android:codes="55005" android:keyLabel="50" android:keyEdgeFlags="right" android:keyWidth="17.1%p"   android:horizontalGap="3%p" />
+    </Row>
+    <Row>
+        <Key android:codes="49"    android:keyLabel="1"  android:keyEdgeFlags="left" android:horizontalGap="1%p" android:keyWidth="24.2%p" />
+        <Key android:codes="50"    android:keyLabel="2"  android:keyWidth="24.2%p"/>
+        <Key android:codes="51"    android:keyLabel="3"  android:keyWidth="24.2%p"/>
+        <Key android:codes="-5"    android:keyIcon="@drawable/ic_backspace_black_24dp" android:keyWidth="24.2%p" android:isRepeatable="true" android:keyHeight="12.8%p" />
+    </Row>
+    <Row>
+        <Key android:codes="52"    android:keyLabel="4"  android:keyEdgeFlags="left" android:horizontalGap="1%p" android:keyWidth="24.2%p" />
+        <Key android:codes="53"    android:keyLabel="5"  android:keyWidth="24.2%p"/>
+        <Key android:codes="54"    android:keyLabel="6"  android:keyWidth="24.2%p"/>
+    </Row>
+    <Row>
+        <Key android:codes="55"    android:keyLabel="7"  android:keyEdgeFlags="left" android:horizontalGap="1%p" android:keyWidth="24.2%p" />
+        <Key android:codes="56"    android:keyLabel="8"  android:keyWidth="24.2%p"/>
+        <Key android:codes="57"    android:keyLabel="9"  android:keyWidth="24.2%p"/>
+        <Key android:codes="55006" android:keyLabel="OK" android:keyWidth="24.2%p"   android:keyHeight="12.8%p"  />
+    </Row>
+    <Row
+        android:verticalGap="1.3%p">
+        <Key android:codes="48"    android:keyLabel="0"  android:keyEdgeFlags="left" android:horizontalGap="1%p" android:keyWidth="48.65%p" />
+        <Key android:codes="46"    android:keyLabel="."  android:keyWidth="24.2%p"/>
+    </Row>
+</Keyboard>
