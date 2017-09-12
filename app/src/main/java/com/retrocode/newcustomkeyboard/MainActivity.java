@@ -2,7 +2,6 @@ package com.retrocode.newcustomkeyboard;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
 import android.widget.EditText;
 
 import com.crashlytics.android.Crashlytics;
@@ -32,20 +31,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
         customKeyboardView.registerEditText(secondEditText);
-
-        onButtonClick();
-
-        findViewById(R.id.crash_button).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                onButtonClick();
-
-            }
-        });
-    }
-
-    private void onButtonClick() {
-        throw new RuntimeException("This is a crash");
     }
 
     @Override
