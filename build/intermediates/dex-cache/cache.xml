@@ -2,6 +2,15 @@
 <items version="2" >
 
     <item
+        is-multidex="true"
+        jar="/Users/djordje/andorid_repos/Custom-Keyboard/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="470a858cfea00e0846b4da437a1db00a67cf06ef">
+        <dex dex="/Users/djordje/andorid_repos/Custom-Keyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_81e24cd0fd9c7e86e3b8cef984eec4c0e8413282/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Users/djordje/.android/build-cache/cb086b7efedc7eab9833c405574c013cf3b2a73a/output/jars/classes.jar"
         jumboMode="false"
@@ -27,6 +36,15 @@
         revision="26.0.0"
         sha1="204f607419af8247cc1b2a61f50663c65f841c12">
         <dex dex="/Users/djordje/AndroidStudioProjects/NewCustomKeyboard/app/build/intermediates/pre-dexed/debug/classes_888b324217340784735245a68b13b38c622703a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/djordje/andorid_repos/Custom-Keyboard/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/djordje/andorid_repos/Custom-Keyboard/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_087c2b2dfa5bdaface37e6d97511dda10b5f2a74/classes.dex" />
     </item>
     <item
         is-multidex="false"
